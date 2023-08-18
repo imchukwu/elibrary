@@ -1,0 +1,113 @@
+[
+  {
+    "_id": "5dd5149d4d714af5b2961c5f",
+    "title": "Passion of the Christ",
+    "isbn": "0205080057",
+    "author": ["Michael Philips", "Ada Udenyi"],
+    "publisher": "Simon & Schuster",
+    "description": "Exploring the jaw-dropping US east coast by foot and by boat",
+    "imageCover": "book-1-cover.jpg",
+    "content": "book-1-content.pdf",
+    "publishedAt": "2021-06-19T09:00:00.000Z"
+
+  },
+  {
+    "_id": "b98a6bc78dcf4e129dca9f08",
+    "title": "The Great Gatsby",
+    "isbn": "9780743273565",    
+    "author": ["Michael Peters", "Ola Muyiwa"],
+    "publisher": "Hachette",
+    "description": "A tale of decadence and disillusionment in the Roaring Twenties",
+    "imageCover": "book-2-cover.jpg",
+    "content": "book-2-content.pdf",
+    "publishedAt": "2019-10-11T15:30:00.000Z"
+  },
+  {
+    "_id": "dcdab3b843274e8f8e7b3c50",
+    "title": "To Kill a Mockingbird",
+    "isbn": "9780060935467", 
+    "author": ["Michael Peters", "Ola Muyiwa"],
+    "publisher": "Hachette",
+    "description": "A powerful story addressing racial injustice in the Deep South",
+    "imageCover": "book-3-cover.jpg",
+    "content": "book-3-content.pdf",
+    "publishedAt": "2005-08-02T11:45:00.000Z"
+  },
+  {
+    "_id": "2d10aaf39f2949f1ae929863",
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "isbn": "9780590353427",     
+    "author": ["Michael Peters", "Ola Muyiwa"],
+    "publisher": "Hachette",
+    "description": "The magical beginning of Harry Potter's journey at Hogwarts School of Witchcraft and Wizardry",
+    "imageCover": "book-4-cover.jpg",
+    "content": "book-4-content.pdf",
+    "publishedAt": "2001-06-26T08:15:00.000Z"
+  },
+  {
+    "_id": "81e4f4d557eb49e2b7c17c33",
+    "title": "Pride and Prejudice",
+    "isbn": "0141439513", 
+    "author": ["Michael Peters", "Ola Muyiwa"],
+    "publisher": "Hachette",
+    "description": "A classic tale of love, societal norms, and overcoming prejudices in 19th-century England.",
+    "imageCover": "book-5-cover.jpg",
+    "content": "book-5-content.pdf",
+    "publishedAt": "1813-01-28T09:00:00.000Z"
+  },
+  {
+    "_id": "c3d7f9d851994e1aba2f58b4",
+    "title": "1984",
+    "isbn": "0451524934", 
+    "author": ["Michael Peters", "Ola Muyiwa"],
+    "publisher": "Hachette",
+    "description": "A dystopian novel depicting a totalitarian regime and the power of government surveillance.",
+    "imageCover": "book-6-cover.jpg",
+    "content": "book-6-content.pdf",
+    "publishedAt": "1949-06-08T09:00:00.000Z"
+  },
+  {
+    "_id": "3d9f732250eb49e989fe9a42",
+    "title": "The Catcher in the Rye",
+    "isbn": "0316769487", 
+    "author": ["Michael Peters", "Ola Muyiwa"],
+    "publisher": "Hachette",
+    "description": "A coming-of-age novel following the journey of a teenage boy in New York City.",
+    "imageCover": "book-7-cover.jpg",
+    "content": "book-7-content.pdf",
+    "publishedAt": "1951-07-16T09:00:00.000Z"
+  },
+  {
+    "_id": "df1a5eb32d2c4016947e170f",
+    "title": "The Lord of the Rings",
+    "isbn": "0618640150", 
+    "author": ["Michael Peters", "Ola Muyiwa"],
+    "publisher": "Hachette",
+    "description": "An epic fantasy adventure about a quest to destroy a powerful ring and save Middle-earth.",
+    "imageCover": "book-8-cover.jpg",
+    "content": "book-8-content.pdf",
+    "publishedAt": "1954-07-29T09:00:00.000Z"
+  },
+  {
+    "_id": "87e8bbf23a104d6d9ff27c5b",
+    "title": "The Hunger Games",
+    "isbn": "0439023483", 
+    "author": ["Michael Peters", "Ola Muyiwa"],
+    "publisher": "Hachette",
+    "description": "In a dystopian future, teenagers are forced to fight to the death in a televised event.",
+    "imageCover": "book-9-cover.jpg",
+    "content": "book-9-content.pdf",
+    "publishedAt": "2008-09-14T09:00:00.000Z"
+  },
+  {
+    "_id": "29e56cc9620647a18e4c2c3b",
+    "title": "The Alchemist",
+    "isbn": "0062315005", 
+    "author": ["Michael Peters", "Ola Muyiwa"],
+    "publisher": "Hachette",
+    "description": "A story about following one's dreams and the journey of self-discovery.",
+    "imageCover": "book-10-cover.jpg",
+    "content": "book-10-content.pdf",
+    "publishedAt": "1988-01-01T09:00:00.000Z"
+  }
+]
